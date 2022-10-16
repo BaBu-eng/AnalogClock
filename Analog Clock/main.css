@@ -45,10 +45,9 @@
 #circle{
     position: absolute;
     background: black;
-    width: 7px;
-    height: 7px;
+    width: 24px;
+    height: 27px;
     border-radius: 96px;
-    top: 50%;
+    top: 49.6%;
     left: 47.8%;
-
 }
